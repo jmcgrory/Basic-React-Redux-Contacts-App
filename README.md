@@ -5,3 +5,4 @@ Basic contact application using:
  - React.js for UI
  - Redux for state management/backend
  - NPM/Webpack for development
+ - JSX template syntax
